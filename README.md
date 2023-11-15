@@ -3,7 +3,7 @@ At TikTok, our mission is to inspire creativity and bring joy. Our employees lea
 TikTok users have the ability to report videos and comments that contain user claims. These reports identify content that needs to be reviewed by moderators. This process generates a large number of user reports that are difficult to address quickly. 
 TikTok is working on the development of a predictive model that can determine whether a video contains a claim or offers an opinion. With a successful prediction model, TikTok can reduce the backlog of user reports and prioritize them more efficiently.
 
-ASSIGNMENTS
+ASSIGNMENTS:
 1. TikTok is asking for a project proposal that will create milestones for the tasks within the comment classification project.
    Tasks: Organize project tasks into milestones, Classify tasks using the PACE workflow, Identify relevant stakeholders.
 2. Build a dataframe for the claims classification data. After the dataframe is complete, organize the claims data for the process of exploratory data analysis, and update the team on the progress and insights.
